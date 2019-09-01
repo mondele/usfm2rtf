@@ -1,7 +1,11 @@
-# usfm2html
-Creates "pretty" html/css output from USFM files
+# usfm2rtf
+Creates "pretty" rtf output from USFM files
 
-# Changes is v. 0.5:
+# Initial version 0.1
+   Just a clone of v. 0.5 of usfm2html. I'm starting this program to try to add footnotes to the output. Since HTML doesn't 
+   really support footnotes, I thought I would try messing about with rtf.
+
+# Changes in v. 0.5:
    Added code to ignore Strong's numbers, etc., from USFM 3
 
 # Changes in v. 0.4:
